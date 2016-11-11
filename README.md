@@ -1,4 +1,7 @@
 # [Try-Box](http://try-box.com)
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Simple and powerful IDE for tutorials on any technology, a mind blowing concept.
 
 ## Details
